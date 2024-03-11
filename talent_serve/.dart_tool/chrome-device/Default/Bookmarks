@@ -1,0 +1,116 @@
+{
+   "checksum": "0f709884681aad68f0d6040f73db3c43",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13332787456891389",
+            "date_last_used": "0",
+            "guid": "07f9389a-0698-46de-bce4-04f7e2ac2734",
+            "id": "15",
+            "name": "Kamepalli-Kumar-B.Tech.-CyberSecurity-2023-06-30-03-14-37-769644.pdf",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://calyx-production-media.s3.amazonaws.com/resume_files/Kamepalli-Kumar-B.Tech.-CyberSecurity-2023-06-30-03-14-37-769644.pdf?response-content-disposition=filename%3D200303126106%2520KAMEPALLI%2520PRAMOD%2520KUMAR%2520RESUME.pdf%3B%20filename%2A%3Dutf-8%27%27200303126106%2520KAMEPALLI%2520PRAMOD%2520KUMAR%2520RESUME.pdf&response-content-type=application%2Fpdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA4V756IASULRKDJAC%2F20230702%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20230702T160054Z&X-Amz-Expires=600&X-Amz-SignedHeaders=host&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEG4aCmFwLXNvdXRoLTEiRzBFAiAMM4E9fZR1w77AgMrGr0GRj3eobq2KV%2FdnsJ9hTXlhugIhANfos8WK9ByuQYYyvKZSvqeQ4NMEZZLQXQTcJpzSB2upKrwFCNf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQBRoMODcxODc0MDUyMTMzIgzfhWn%2F8b9hMxxtkZ0qkAVt765agOItvGBIuKUq4Y89oe2MOJjVc6rUn66uFqPw5H8bDtQVUmijJRTIkJTYi%2BLXrkfw%2BaOD795wSQxPWe1o8uI%2BcmRmDMnUJG2Mlyn3DOpNUO7WiLX00aJp7K2G%2FUVX7LQXQcKCQDLMQlhh%2BKVXqIiEzoR5KaUdUE3kay%2FMQPdQkKOd5FYlp5qgoST4PDbBvg2YlVeibHFLLCqGWb57tbrxKQtAYG5BupyQH0o7cxofiEUOcChFPr4TyKArhXYfWqM3DcMimeSdM6r1g0S5Gyvz1nT7EpWtpYUvKceqpDGi78CU744w2Usud%2Bps9peTOxC3auoMS7cNCVwYxWPznGvVKRM6pchC3D3n6UfmAM%2BS7w2F96d0JskjVgQ1HIfOt0dI%2F4Hz9JnzjtFykQOGgo%2Fy9Y4smAcLO5HDr3KymrCoti60K2wMAM7uMHv6OJkoBFZo0yvaizyAr0MGIY%2FIHLNz%2BYDQAYu0qD%2BnGhxuAdNU5tRNV1h6ZnCdLU%2FMYSBzTDd56IQx7SGN%2B5wkjf5iY8VHEdzwXkC9CGBm1UeEPhrNhetZYNM%2F%2FB43SiB5DN9YBYGMIf4ARdAqqsxyoRQ4fKHekej4KsdQzagMpwBgwXl%2FaKtnmCr309qHEWa5Pe66%2B6BqOsgPfv4zeVGDfpdTwA%2FA6YbWzk%2BDzqc7WGY%2FEEoDTB1tuMqxCIrd6O9Q9BllIDhPwsmwsJhFIbpjEJxTIGvMSKKnv7cPEpQuP7km71loXcF9ClrvynisgsPBxAnry1S%2FJSP1RUgzoSsXHiTJG2B1635cSr%2BdLkFB%2F7WS8Byjlpp8tF4Sl3k9ZjI87KmJtPbnN8pzIrpbPmvGdmL%2BK3gGciwqair8YFB%2FAZo6fjDmhoalBjqxARWOYBeMR%2FxY6uF9ERAO8CE0LrWPP4nZUXYSgYDIc6eiqdRiYbn%2BrDs%2FCtnlW09OAtCOTWGbYIxwiJwwsORA%2F%2B0tKCwWraithEdkBZRvux5wy%2FeE%2Bp%2F15ubFTg8qm0fZUN7ndVRBAyQgLSN72BnZMBhcgcEmoDSQ1EsYOoPz3O9THOogdpOdW8pHblwlIXAmY8%2BwE7YdHIN3dyc4kOZlqoJd5yvGpzCV8TOH2F8NcH4nkQ%3D%3D&X-Amz-Signature=7665d9515168109772bf9af4badb2d56fc203c6fcd869c503437a2321d558645"
+         }, {
+            "date_added": "13335645502277096",
+            "date_last_used": "0",
+            "guid": "780f8b06-15c8-40a9-846a-b9ee017bbe49",
+            "id": "16",
+            "name": "Bard",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://bard.google.com/"
+         }, {
+            "date_added": "13339746793707748",
+            "date_last_used": "0",
+            "guid": "c98368a3-b669-4f10-a874-a16e61e0b54d",
+            "id": "17",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "www.bing.com",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.bing.com/search?pglt=41&q=four+hand+shake+in+cyber&cvid=205fcb8cebd8413084f16bb9531ab2d5&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDk3MzdqMGoxqAIAsAIA&FORM=ANNTA1&PC=LCTS"
+         }, {
+            "date_added": "13340979153032524",
+            "date_last_used": "0",
+            "guid": "5b2dee81-e8f0-48d7-b0b9-93f788798019",
+            "id": "18",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "106_DF practical -09.pdf",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "file:///C:/Users/91910/Downloads/106_DF%20practical%20-09.pdf"
+         }, {
+            "date_added": "13354573177539051",
+            "date_last_used": "0",
+            "guid": "ad215432-016a-4d66-af5d-7d5cb30950a0",
+            "id": "9",
+            "name": "Lenovo Support",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://support.lenovo.com/"
+         }, {
+            "date_added": "13354573177538853",
+            "date_last_used": "0",
+            "guid": "b84f7dc1-9c5d-4289-a022-43e2348a38f7",
+            "id": "8",
+            "name": "Lenovo",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.lenovo.com/"
+         }, {
+            "date_added": "13354573177538165",
+            "date_last_used": "0",
+            "guid": "3fb28019-0a3b-4d38-b4c7-9f36511d1234",
+            "id": "7",
+            "name": "McAfee",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/lenovo.html"
+         } ],
+         "date_added": "13354573177138567",
+         "date_last_used": "0",
+         "date_modified": "13354597658377915",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13354573177138572",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13354573177138573",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCNppViuOAQAAEgAqGFZySE14d2pyUmhzdzczUURVR0U0a1E9PUgDoAYMEqgBCBISowEKHGp1UW9TSW9TZ1ZXd1FKbG9ySmRHeTY5L05TUT0SJDViMmRlZTgxLWU4ZjAtNDhkNy1iMGI5LTkzZjc4ODc5ODAxORgAIAAoADCo3azzuzE41OWs87sxQNTlrPO7MUocVGNVVTR2M0NhemdTMHhkV0ZPN0EvbjI3TFZjPVofIh3cT0VSZ2ZuOGdzbzZWWWIydzlTRUlDYmxDQ1ZFPWV3cGyjEqcBCA8SogEKHEhaRHFFbGluRFdWUGdmTytsVTF0YWdZNzdYaz0SJDA3ZjkzODlhLTA2OTgtNDZkZS1iY2U0LTA0ZjdlMmFjMjczNBgAIAAoADC4jeS6kTE4wY7kupExQMGO5LqRMUocUSt0MnUycnVDbVRVWS9ZRzNieWhYZzN4blVFPVoeIhwvbU4wZlEwckUxZk9DQVY4MFdDNGZwSVBZbVk9ZQAAAAASpwEIEBKiAQocRldtUGUzZXh6eDVlOGZJZ2ZjWU1YYnY3bDdRPRIkNzgwZjhiMDYtMTVjOC00MGE5LTg0NmEtYjllZTAxN2JiZTQ5GAAgAigCMNbT2driMTiIoc2NnDFAxLvZ2uIxShxtQjVMcHRyOE45TWtnRjZZR1I5UWtlSWJXRFU9Wh4iHHNLKysvRUNOenp5RDIyQXhibWlTUVJDUHVjZz1lZ+D2IRKJAQgBEoQBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9EiRjYTBjMjZmMi05MWNjLTVkMjEtYjA5MS00NjBlYmMzYzYwNTIYACAAKAAwnfuvobEwOIOD6+OMMECDg+vjjDBKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAEokBCAIShAEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SJGVlNDZjMWQ3LTNkZGMtNTBlMi05OGFhLTc1ZjUxN2FlNTk1ZRgAIAAoADCd+6+hsTA4k4Pr44wwQJOD6+OMMEocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAASqAEIERKjAQocVGwvejl6YzR0b2FzYUs5dDhLV1dGamlTcVlJPRIkYzk4MzY4YTMtYjY2OS00ZjEwLWE4NzQtYTE2ZTYxZTBiNTRkGAAgACgAMNmDp7GrMTjHhaexqzFAx4WnsasxShxsT3Vnc1ZXZC9FaGx3YkZ3RjVlSElyTUpKbVk9Wh8iHblHa29BTUYzclV1Y1dheE1ZSTB5WVdKdjlvZWc9ZQAAAAASiQEIAxKEAQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRIkNzMzZGFhZGEtMGMwZC01MDI0LTkxMjUtN2ZjZTgzNzc5MzU1GAAgACgAMJ37r6GxMDifhOvjjDBAn4Tr44wwShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAADAAOAA=",
+   "version": 1
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "238133792593",
+    "project_id": "talent-serve-fqbamm",
+    "storage_bucket": "talent-serve-fqbamm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238133792593:android:016492004da3c39dc08d70",
+        "android_client_info": {
+          "package_name": "com.mycompany.talentserve"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMub4hBPMmpD4xrKSxPb-ZeRa1D-y_c_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
